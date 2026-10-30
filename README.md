@@ -1,6 +1,6 @@
 # Assignment-FOCP
 
-A collection of JavaScript solutions for the **Fundamentals of Programming and Computational Thinking (FOCP)** coursework.
+A collection of JavaScript solutions for the **Fundamentals of Computer Programming (FOCP)** coursework.
 
 <p align="center">
   <strong>Medhavi Skills University</strong><br>
