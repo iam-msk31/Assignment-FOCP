@@ -16,8 +16,8 @@ A collection of JavaScript solutions for the **Fundamentals of Computer Programm
 |---|---|
 | Student Name | **Mohammad Samar** |
 | University | Medhavi Skills University |
-| School | Quad AI School of Technology |
-| Programme | Computer Science and Engineering |
+| Institute | Quad AI School of Technology |
+| Program | Computer Science and Engineering |
 | Subject | FOCP |
 | Repository | `Assignment-FOCP` |
 
