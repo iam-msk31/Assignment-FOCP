@@ -4,8 +4,7 @@
 // Tasks :
 
 
-// 1. Store a student's name, roll number, department, and marks in five subjects using
-// appropriate variables and data types.
+// 1.Write a function to reverse a string without using reverse().
 
 function reverseString(str) {
     let result = "";
